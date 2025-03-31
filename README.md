@@ -1,5 +1,4 @@
-# ✈️ Airline Passenger Satisfaction — Unsupervised Learning Project
-
+# ✈️ Airline Passenger Satisfaction — Unsupervised Learning
 ## Project Overview
 This project applies **unsupervised learning** to analyze a dataset of airline passenger satisfaction surveys. The goal is to uncover hidden patterns, segment passengers, and understand what drives satisfaction using clustering and dimensionality reduction techniques.
 
